@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a45169a5f906c81f",
+        "id": "dd90b329d32a7e16",
         "type": "tabs",
         "children": [
           {
-            "id": "2db663b1ee4cd5fe",
+            "id": "947a71dbded51764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN BASICS.md",
+                "file": "Java/L1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#note",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284.5
   },
   "right": {
     "id": "8e4994b713926b2e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN BASICS.md",
+                "file": "Java/L1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN BASICS.md",
+                "file": "Java/L1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN BASICS.md"
+                "file": "Java/L1.md"
               }
             }
           }
@@ -146,11 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db663b1ee4cd5fe",
+  "active": "947a71dbded51764",
   "lastOpenFiles": [
-    "MARKDOWN BASICS.md",
-    "youtube.com.md",
+    "Java/Installations.md",
+    "Java/L1.md",
+    "BLOG GYMMASTER/BLOG POST.md",
+    "BLOG GYMMASTER/assets/slot machine .jpeg",
+    "BLOG GYMMASTER/assets/mdp.png",
+    "BLOG GYMMASTER/assets/karm3.png",
+    "BLOG GYMMASTER/assets/karm2.png",
+    "BLOG GYMMASTER/assets/karm1.png",
+    "BLOG GYMMASTER/assets/grid.png",
+    "BLOG GYMMASTER/assets/bellman equation.png",
+    "BLOG GYMMASTER/assets",
+    "BLOG GYMMASTER",
+    "BlOG GYMMASTER/BLOG POST.md",
+    "BlOG GYMMASTER/assets/bellman equation.png",
+    "BlOG GYMMASTER/assets/grid.png",
     "README.md",
+    "SRA projects/Grid World problem.md",
+    "BLOG GYM-MASTER.md",
+    "BLOG.md",
+    "BlOG GYMMASTER/assets",
+    "BlOG GYMMASTER",
+    "BlOG GYMMASTER/assets/mdp.png",
+    "Python/JUPYTER NOTEBOOK.md",
+    "Python/Python installations.md",
+    "Obsedian/MARKDOWN BASICS.md",
+    "Java",
+    "assets",
+    "Python/SOME CODE SNIPPETS.md",
+    "SRA projects",
+    "Obsedian",
+    "Python",
+    "MARKDOWN BASICS 1.md",
+    "Untitled/Untitled.canvas",
+    "Untitled/Untitled",
+    "youtube.com.md",
     "<name of the other file>.md"
   ]
 }
