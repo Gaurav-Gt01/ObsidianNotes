@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd90b329d32a7e16",
+        "id": "37a543b8c2954ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "947a71dbded51764",
+            "id": "fbcdced64366da6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/L1.md",
+                "file": "Java/WHAT ALL TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/L1.md",
+                "file": "Java/WHAT ALL TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/L1.md",
+                "file": "Java/WHAT ALL TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/L1.md"
+                "file": "Java/WHAT ALL TO DO.md"
               }
             }
           }
@@ -146,30 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "947a71dbded51764",
+  "active": "fbcdced64366da6c",
   "lastOpenFiles": [
-    "Java/Installations.md",
+    "Java/IMPORTANT POINTS.md",
+    "Java/SHORTCUTS.md",
     "Java/L1.md",
+    "Java/L2.md",
+    "Java/L3.md",
     "BLOG GYMMASTER/BLOG POST.md",
+    "Screenshot 2024-07-29 at 12.23.21 AM.png",
+    "Screenshot 2024-07-29 at 12.16.29 AM.png",
+    "Screenshot 2024-07-29 at 12.20.48 AM.png",
+    "Screenshot 2024-07-29 at 12.19.27 AM.png",
+    "Screenshot 2024-07-29 at 12.17.16 AM.png",
+    "BLOG GYMMASTER/assets/value function.png",
+    "BLOG GYMMASTER/assets/markov.png",
+    "BLOG GYMMASTER/assets/q(a).png",
     "BLOG GYMMASTER/assets/slot machine .jpeg",
-    "BLOG GYMMASTER/assets/mdp.png",
-    "BLOG GYMMASTER/assets/karm3.png",
-    "BLOG GYMMASTER/assets/karm2.png",
-    "BLOG GYMMASTER/assets/karm1.png",
-    "BLOG GYMMASTER/assets/grid.png",
-    "BLOG GYMMASTER/assets/bellman equation.png",
+    "BLOG GYMMASTER/assets/newestimate.png",
+    "Java/WHAT ALL TO DO.md",
+    "Java/Installations.md",
     "BLOG GYMMASTER/assets",
     "BLOG GYMMASTER",
     "BlOG GYMMASTER/BLOG POST.md",
-    "BlOG GYMMASTER/assets/bellman equation.png",
-    "BlOG GYMMASTER/assets/grid.png",
     "README.md",
     "SRA projects/Grid World problem.md",
     "BLOG GYM-MASTER.md",
     "BLOG.md",
     "BlOG GYMMASTER/assets",
     "BlOG GYMMASTER",
-    "BlOG GYMMASTER/assets/mdp.png",
     "Python/JUPYTER NOTEBOOK.md",
     "Python/Python installations.md",
     "Obsedian/MARKDOWN BASICS.md",

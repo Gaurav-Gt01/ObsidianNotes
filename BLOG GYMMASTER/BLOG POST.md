@@ -1,16 +1,14 @@
 # GYM - MASTER :
 
+## MENTEES :
+
+1. [Vyoma Mankad](https://github.com/vyomathecoolest)
+2. [Ansh Semwal](https://github.com/De-funkd)
+3. [Gaurav Tatpate](https://github.com/Gaurav-Gt01)
+
 ## What is our project?
 
 Our project pushes us to explore the uncharted waters of **RL - REINFORCEMENT LEARNING**. Building a solid foundation on key concepts of RL, learning the relevant and necessary technologies of PyTorch and/or TensorFlow. We then implement our learnings to solve various OpenAI gym environments and then move on to make a marquee project utilising all our learnings.
-
-## What are we referring to?
-
-Since the last 3 weeks we’ve been going through a video lecture series on RL by Prof. David Silver uploaded on Google DeepMind’s official YouTube channel. Along with this, we’ve been referring to *Reinforcement Learning: An Introduction*, authored by Richard Sutton and Andrew Barto, and many other videos across the internet.
-
-## What have we done till now?
-
-These past weeks we have laid the foundation for our journey ahead. Taking the time to learn and implement the basics of RL and then subsequently the OpenAI-GYM has been our primary concern. The details of our work will now unfold in the subsequent sections.
 
 ## Intro to RL
 
@@ -28,15 +26,11 @@ Besides this, we also learned some basic definitions of various components of a 
 
 ## K-armed Bandit :
 
-![[slot machine .jpeg]]                  
-Here we are working on our very first problem. K-armed bandits are a genre of problems where the agent can choose from a large number of levers or actions, say a 1000. Each of these actions yields the agent a reward. The task is then to maximize this reward that the agent receives. The value of any action \( a \) taken at time-step “t” then is:
-
-\[ q^*(a) = \mathbb{E}[R(t) \mid A(t) = a] \]
+![[slot machine .jpeg]]           
+Here we are working on our very first problem. K-armed bandits are a genre of problems where the agent can choose from a large number of levers or actions, say a 1000. Each of these actions yields the agent a reward. The task is then to maximize this reward that the agent receives. The value of any action \( a \) taken at time-step “t” then is:![[Screenshot 2024-07-29 at 12.19.27 AM.png]]
 
 where \( R(t) \) is the reward for that time-step. Now we do not have the value of all the actions, we need to estimate this value to make decisions, which we do by taking averages of rewards that we get for that time-step. But we also have to update this value for each time-step which we do using this formula:
-
-\[ \text{NewEstimate} = \text{OldEstimate} + \text{StepSize} \times [\text{Target} - \text{OldEstimate}] \]
-
+![[Screenshot 2024-07-29 at 12.16.29 AM.png]]
 ### Exploitation vs exploration
 
 - **Exploitation**: The action of repeatedly choosing the action that yields max reward (also called greedy action) is called exploitation.
@@ -61,7 +55,7 @@ Markov Decision Processes (MDPs) provide a mathematical framework for modeling d
 
 A Markov state follows the property:
 
-\[ P[ S_{t+1} \mid S_t ] = P[S_{t+1} \mid S_1, ..., S_t ] \]
+![[markov.png]]
 
 This means that “the future is independent of the past given the present”.
 
@@ -80,7 +74,7 @@ This means that “the future is independent of the past given the present”.
 6. **Value Function**: The value function measures the expected return (total rewards) starting from a state and following a particular policy. For example, the expected points you would get from a certain state in the game if you follow a particular strategy. We calculate the value function using the Bellman Equation which is:
     
     \[ V(s) = \max(R(s,a) + \gamma V(s')) \]
-
+ ![[value function.png]]
     Where:
     - \( V(s) \): Value function for state \( s \), representing the maximum expected return from state \( s \).
     - \( \max \): Maximum operator over all possible actions \( a \), indicating the choice of the best action.
@@ -151,9 +145,9 @@ The grid world problem is a simple game used to teach basic ideas in reinforceme
 
 - **Grid**: A 4x4 grid where each cell is a different state.
 - **States**:
-  - **Winning State**: Reaching this cell gives a reward of +1.
-  - **Losing State**: Reaching this cell gives a penalty of -1.
-  - **Neutral State**: All other cells have no reward (0).
+- **Winning State**: Reaching this cell gives a reward of +1.
+- **Losing State**: Reaching this cell gives a penalty of -1
+- **Neutral State**: All other cells have no reward (0).
 - **Actions**: The agent can move:
   - Up
   - Down
@@ -170,4 +164,12 @@ To solve this problem, we use a method called value iteration. This method helps
 - **Iterate**: Update the values of each state by looking at possible actions.
 - **Calculate Value**: For each action, calculate the expected reward and update the value of the state.
 - The process continues until the change in the value function is less than a small threshold (theta), indicating convergence.
-- **Determine Policy**: Find the best action for each state based on the calculated values.
+- **Determine Policy**: Find the best action for each state based on the calculated values.\
+
+## What have we done till now?
+
+These past weeks we have laid the foundation for our journey ahead. Taking the time to learn and implement the basics of RL and then subsequently the OpenAI-GYM has been our primary concern. The details of our work will now unfold in the subsequent sections.
+
+## What are we referring to?
+
+Since the last 3 weeks we’ve been going through a video lecture series on RL by Prof. David Silver uploaded on Google DeepMind’s official YouTube channel. Along with this, we’ve been referring to *Reinforcement Learning: An Introduction*, authored by Richard Sutton and Andrew Barto, and many other videos across the internet.
