@@ -7,7 +7,7 @@ sout + tab // prints the print line
 ```
 
 ```
-cmd + d // duplicates the prvous line 
+cmd + d // duplicates the prvous line // works only in INtellij 
 ```
 
 ```

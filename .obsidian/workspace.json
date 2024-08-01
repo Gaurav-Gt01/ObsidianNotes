@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/WHAT ALL TO DO.md",
+                "file": "Java/L4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/WHAT ALL TO DO.md",
+                "file": "Java/L4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/WHAT ALL TO DO.md",
+                "file": "Java/L4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/WHAT ALL TO DO.md"
+                "file": "Java/L4.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "fbcdced64366da6c",
   "lastOpenFiles": [
-    "Java/IMPORTANT POINTS.md",
-    "Java/SHORTCUTS.md",
-    "Java/L1.md",
-    "Java/L2.md",
     "Java/L3.md",
+    "Java/L2.md",
+    "Java/L4.md",
+    "Java/SHORTCUTS.md",
+    "Java/WHAT ALL TO DO.md",
+    "Java/IMPORTANT POINTS.md",
+    "Java/L1.md",
     "BLOG GYMMASTER/BLOG POST.md",
     "Screenshot 2024-07-29 at 12.23.21 AM.png",
     "Screenshot 2024-07-29 at 12.16.29 AM.png",
@@ -164,7 +166,6 @@
     "BLOG GYMMASTER/assets/q(a).png",
     "BLOG GYMMASTER/assets/slot machine .jpeg",
     "BLOG GYMMASTER/assets/newestimate.png",
-    "Java/WHAT ALL TO DO.md",
     "Java/Installations.md",
     "BLOG GYMMASTER/assets",
     "BLOG GYMMASTER",
