@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37a543b8c2954ef3",
+        "id": "4de8e8561471a06e",
         "type": "tabs",
         "children": [
           {
-            "id": "fbcdced64366da6c",
+            "id": "ddf4b5b3f53371c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/L4.md",
+                "file": "Compilers/Session1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/L4.md",
+                "file": "Compilers/Session1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/L4.md",
+                "file": "Compilers/Session1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/L4.md"
+                "file": "Compilers/Session1.md"
               }
             }
           }
@@ -146,16 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbcdced64366da6c",
+  "active": "ddf4b5b3f53371c2",
   "lastOpenFiles": [
-    "Java/L3.md",
-    "Java/L2.md",
+    "SRA projects/PONG.md",
+    "Obsedian/MARKDOWN BASICS.md",
+    "SRA projects/Grid World problem.md",
+    "BLOG GYMMASTER/BLOG POST.md",
+    "Python/JUPYTER NOTEBOOK.md",
+    "Python/Python installations.md",
+    "Compilers/Session1.md",
+    "Compilers",
+    "Untitled.md",
     "Java/L4.md",
     "Java/SHORTCUTS.md",
+    "Java/L3.md",
+    "Java/L2.md",
     "Java/WHAT ALL TO DO.md",
     "Java/IMPORTANT POINTS.md",
     "Java/L1.md",
-    "BLOG GYMMASTER/BLOG POST.md",
     "Screenshot 2024-07-29 at 12.23.21 AM.png",
     "Screenshot 2024-07-29 at 12.16.29 AM.png",
     "Screenshot 2024-07-29 at 12.20.48 AM.png",
@@ -171,14 +179,10 @@
     "BLOG GYMMASTER",
     "BlOG GYMMASTER/BLOG POST.md",
     "README.md",
-    "SRA projects/Grid World problem.md",
     "BLOG GYM-MASTER.md",
     "BLOG.md",
     "BlOG GYMMASTER/assets",
     "BlOG GYMMASTER",
-    "Python/JUPYTER NOTEBOOK.md",
-    "Python/Python installations.md",
-    "Obsedian/MARKDOWN BASICS.md",
     "Java",
     "assets",
     "Python/SOME CODE SNIPPETS.md",
@@ -187,7 +191,6 @@
     "Python",
     "MARKDOWN BASICS 1.md",
     "Untitled/Untitled.canvas",
-    "Untitled/Untitled",
     "youtube.com.md",
     "<name of the other file>.md"
   ]
