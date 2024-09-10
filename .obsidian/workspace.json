@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4de8e8561471a06e",
+        "id": "64f7ef24f2d819ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf4b5b3f53371c2",
+            "id": "fe2adda2037aa233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compilers/Session1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compilers/Session1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compilers/Session1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Compilers/Session1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddf4b5b3f53371c2",
+  "active": "fe2adda2037aa233",
   "lastOpenFiles": [
+    "ROS 2/Opening the ros 2.md",
+    "Compilers/Session1.md",
+    "ROS 2",
     "SRA projects/PONG.md",
     "Obsedian/MARKDOWN BASICS.md",
     "SRA projects/Grid World problem.md",
     "BLOG GYMMASTER/BLOG POST.md",
     "Python/JUPYTER NOTEBOOK.md",
     "Python/Python installations.md",
-    "Compilers/Session1.md",
     "Compilers",
     "Untitled.md",
     "Java/L4.md",
@@ -188,7 +182,6 @@
     "Python/SOME CODE SNIPPETS.md",
     "SRA projects",
     "Obsedian",
-    "Python",
     "MARKDOWN BASICS 1.md",
     "Untitled/Untitled.canvas",
     "youtube.com.md",
