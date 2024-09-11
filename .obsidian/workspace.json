@@ -11,8 +11,12 @@
             "id": "fe2adda2037aa233",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Class , Objects in Java.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Class , Objects in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Class , Objects in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Class , Objects in Java.md"
+              }
             }
           }
         ]
@@ -140,6 +148,12 @@
   },
   "active": "fe2adda2037aa233",
   "lastOpenFiles": [
+    "Java/IMPORTANT POINTS.md",
+    "Java/Class , Objects in Java.md",
+    "Java/L4.md",
+    "Java/L3.md",
+    "Java/L2.md",
+    "Java/L1.md",
     "ROS 2/Opening the ros 2.md",
     "Compilers/Session1.md",
     "ROS 2",
@@ -151,13 +165,8 @@
     "Python/Python installations.md",
     "Compilers",
     "Untitled.md",
-    "Java/L4.md",
     "Java/SHORTCUTS.md",
-    "Java/L3.md",
-    "Java/L2.md",
     "Java/WHAT ALL TO DO.md",
-    "Java/IMPORTANT POINTS.md",
-    "Java/L1.md",
     "Screenshot 2024-07-29 at 12.23.21 AM.png",
     "Screenshot 2024-07-29 at 12.16.29 AM.png",
     "Screenshot 2024-07-29 at 12.20.48 AM.png",

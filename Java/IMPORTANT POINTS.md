@@ -9,7 +9,7 @@ javac <file name>
 - ## Execution : process of running the code from main method 
 
 ```
-java <class name>  arguments
+java <class name> 
 ```
 
 ### NOTE : These commands have to be used in the specific files folder .
