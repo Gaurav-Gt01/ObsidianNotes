@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64f7ef24f2d819ad",
+        "id": "8ea6a38edac94138",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2adda2037aa233",
+            "id": "98a871fbdf674e9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Class , Objects in Java.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Class , Objects in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Class , Objects in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Class , Objects in Java.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -146,14 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe2adda2037aa233",
+  "active": "98a871fbdf674e9a",
   "lastOpenFiles": [
+    "C/Code execution.md",
+    "C.md",
+    "C",
     "Java/IMPORTANT POINTS.md",
-    "Java/Class , Objects in Java.md",
-    "Java/L4.md",
-    "Java/L3.md",
     "Java/L2.md",
     "Java/L1.md",
+    "Java/L3.md",
+    "Java/L4.md",
+    "Python/JUPYTER NOTEBOOK.md",
+    "Java/Class , Objects in Java.md",
     "ROS 2/Opening the ros 2.md",
     "Compilers/Session1.md",
     "ROS 2",
@@ -161,10 +173,8 @@
     "Obsedian/MARKDOWN BASICS.md",
     "SRA projects/Grid World problem.md",
     "BLOG GYMMASTER/BLOG POST.md",
-    "Python/JUPYTER NOTEBOOK.md",
     "Python/Python installations.md",
     "Compilers",
-    "Untitled.md",
     "Java/SHORTCUTS.md",
     "Java/WHAT ALL TO DO.md",
     "Screenshot 2024-07-29 at 12.23.21 AM.png",
@@ -190,10 +200,8 @@
     "assets",
     "Python/SOME CODE SNIPPETS.md",
     "SRA projects",
-    "Obsedian",
     "MARKDOWN BASICS 1.md",
     "Untitled/Untitled.canvas",
-    "youtube.com.md",
-    "<name of the other file>.md"
+    "youtube.com.md"
   ]
 }
