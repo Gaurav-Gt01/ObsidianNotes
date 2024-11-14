@@ -1,4 +1,4 @@
-## Java Location :
+ ## Java Location :
 ```
    /Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home
 ```

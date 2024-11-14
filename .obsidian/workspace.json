@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1f8c6db0d57a79",
+        "id": "88d20f44a6443002",
         "type": "tabs",
         "children": [
           {
-            "id": "44bdde4581dc1ae8",
+            "id": "afa9e559ab7bd7be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/JUPYTER NOTEBOOK.md",
+                "file": "ESP IDF/SETTING UP THE ESP IDF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JUPYTER NOTEBOOK"
+              "title": "SETTING UP THE ESP IDF"
             }
           }
         ]
@@ -158,9 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44bdde4581dc1ae8",
+  "active": "afa9e559ab7bd7be",
   "lastOpenFiles": [
+    "ESP IDF/SETTING UP THE ESP IDF.md",
+    "ESP IDF",
+    "Python/JUPYTER NOTEBOOK.md",
+    "Python/Python installations.md",
+    "C++/Patterns.md",
+    "Java/Installations.md",
+    "Java/L1.md",
     "C++/Basics.md",
+    "Java/L4.md",
+    "Untitled.canvas",
+    "Java/L3.md",
+    "Java/L2.md",
     "VSC/Setting up VSC for code running.md",
     "Compilers/Session1.md",
     "C/Code execution.md",
@@ -169,11 +180,6 @@
     "C.md",
     "C",
     "Java/IMPORTANT POINTS.md",
-    "Java/L2.md",
-    "Java/L1.md",
-    "Java/L3.md",
-    "Java/L4.md",
-    "Python/JUPYTER NOTEBOOK.md",
     "Java/Class , Objects in Java.md",
     "ROS 2/Opening the ros 2.md",
     "ROS 2",
@@ -181,7 +187,6 @@
     "Obsedian/MARKDOWN BASICS.md",
     "SRA projects/Grid World problem.md",
     "BLOG GYMMASTER/BLOG POST.md",
-    "Python/Python installations.md",
     "Compilers",
     "Java/SHORTCUTS.md",
     "Java/WHAT ALL TO DO.md",
@@ -195,17 +200,13 @@
     "BLOG GYMMASTER/assets/q(a).png",
     "BLOG GYMMASTER/assets/slot machine .jpeg",
     "BLOG GYMMASTER/assets/newestimate.png",
-    "Java/Installations.md",
     "BLOG GYMMASTER/assets",
     "BLOG GYMMASTER",
     "BlOG GYMMASTER/BLOG POST.md",
     "README.md",
     "BLOG GYM-MASTER.md",
-    "BLOG.md",
     "BlOG GYMMASTER/assets",
     "BlOG GYMMASTER",
-    "Java",
-    "Python/SOME CODE SNIPPETS.md",
     "Untitled/Untitled.canvas"
   ]
 }

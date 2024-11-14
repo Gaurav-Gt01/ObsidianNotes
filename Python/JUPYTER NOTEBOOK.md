@@ -1,4 +1,4 @@
-jupyter
+7jupyter
 ## INSTALLATION :
 
 1. Create a jupyter folder 
