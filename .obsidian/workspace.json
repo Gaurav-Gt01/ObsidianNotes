@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88d20f44a6443002",
+        "id": "61858ed94d0d3e8c",
         "type": "tabs",
         "children": [
           {
-            "id": "afa9e559ab7bd7be",
+            "id": "2f811efb6316f622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESP IDF/SETTING UP THE ESP IDF.md",
+                "file": "GIT-GITHUB/3. Tracking Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SETTING UP THE ESP IDF"
+              "title": "3. Tracking Changes"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -151,6 +152,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -158,38 +161,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afa9e559ab7bd7be",
+  "active": "554167c087e003a3",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Obsedian/MARKDOWN BASICS.md",
+    "Obsedian",
+    "Compilers/Session1.md",
+    "Compilers",
+    "GIT-GITHUB/9. Branching in Git.md",
+    "GIT-GITHUB/Raw Notes.md",
+    "Untitled Kanban.md",
+    "GIT-GITHUB/8. Push and Pull.md",
+    "GIT-GITHUB/12. Squashing Commits.md",
+    "GIT-GITHUB/1. Installation & Verification.md",
+    "GIT-GITHUB/11. Pull Requests.md",
+    "GIT-GITHUB/10. Working with Forks and Upstream.md",
+    "GIT-GITHUB/7. Connecting to Remote Repository.md",
+    "GIT-GITHUB/6. Stashing Changes.md",
+    "GIT-GITHUB/5. Resetting Commits.md",
+    "GIT-GITHUB/3. Tracking Changes.md",
+    "GIT-GITHUB/4. Committing Changes.md",
+    "GIT-GITHUB/2. Working with Repositories.md",
+    "GIT-GITHUB/Installation and Verfication.md",
+    "C/Code execution.md",
     "ESP IDF/SETTING UP THE ESP IDF.md",
-    "ESP IDF",
     "Python/JUPYTER NOTEBOOK.md",
     "Python/Python installations.md",
-    "C++/Patterns.md",
-    "Java/Installations.md",
-    "Java/L1.md",
-    "C++/Basics.md",
-    "Java/L4.md",
-    "Untitled.canvas",
-    "Java/L3.md",
-    "Java/L2.md",
+    "ROS 2/Opening the ros 2.md",
     "VSC/Setting up VSC for code running.md",
-    "Compilers/Session1.md",
-    "C/Code execution.md",
+    "TERMINAL COMMANDS.md",
+    "MARKDOWN BASICS.md",
+    "Untitled",
+    "GIT-GITHUB",
+    "SIGN LANGUAGE",
+    "ESP IDF",
     "VSC",
     "C++",
-    "C.md",
     "C",
-    "Java/IMPORTANT POINTS.md",
-    "Java/Class , Objects in Java.md",
-    "ROS 2/Opening the ros 2.md",
     "ROS 2",
-    "SRA projects/PONG.md",
-    "Obsedian/MARKDOWN BASICS.md",
-    "SRA projects/Grid World problem.md",
-    "BLOG GYMMASTER/BLOG POST.md",
-    "Compilers",
-    "Java/SHORTCUTS.md",
-    "Java/WHAT ALL TO DO.md",
     "Screenshot 2024-07-29 at 12.23.21 AM.png",
     "Screenshot 2024-07-29 at 12.16.29 AM.png",
     "Screenshot 2024-07-29 at 12.20.48 AM.png",
@@ -200,13 +209,6 @@
     "BLOG GYMMASTER/assets/q(a).png",
     "BLOG GYMMASTER/assets/slot machine .jpeg",
     "BLOG GYMMASTER/assets/newestimate.png",
-    "BLOG GYMMASTER/assets",
-    "BLOG GYMMASTER",
-    "BlOG GYMMASTER/BLOG POST.md",
-    "README.md",
-    "BLOG GYM-MASTER.md",
-    "BlOG GYMMASTER/assets",
-    "BlOG GYMMASTER",
     "Untitled/Untitled.canvas"
   ]
 }
