@@ -1,7 +1,7 @@
 
 ## TO START A CODE BLOCK 
 
-    '''<name of the language>
+    '''
     <code >
     '''
 
