@@ -11,10 +11,14 @@
             "id": "966ddbb7d79af525",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GIT-GITHUB/8. Push and Pull.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8. Push and Pull"
             }
           }
         ]
