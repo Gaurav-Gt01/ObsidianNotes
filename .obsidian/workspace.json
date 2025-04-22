@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61858ed94d0d3e8c",
+        "id": "b54d8b99cc9bb577",
         "type": "tabs",
         "children": [
           {
-            "id": "2f811efb6316f622",
+            "id": "966ddbb7d79af525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT-GITHUB/3. Tracking Changes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Tracking Changes"
+              "title": "New tab"
             }
           }
         ]
@@ -161,26 +157,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "554167c087e003a3",
+  "active": "966ddbb7d79af525",
   "lastOpenFiles": [
+    "GIT-GITHUB/9. Branching in Git.md",
+    "GIT-GITHUB/8. Push and Pull.md",
+    "GIT-GITHUB/10. Working with Forks and Upstream.md",
+    "GIT-GITHUB/5. Resetting Commits.md",
+    "GIT-GITHUB/4. Committing Changes.md",
+    "Untitled Kanban.md",
+    "README.md",
+    "TERMINAL COMMANDS.md",
+    "MARKDOWN BASICS.md",
+    "GIT-GITHUB/3. Tracking Changes.md",
+    "SIGN LANGUAGE/Setting up the environment.md",
+    "SIGN LANGUAGE",
     "Untitled.canvas",
     "Obsedian/MARKDOWN BASICS.md",
     "Obsedian",
     "Compilers/Session1.md",
     "Compilers",
-    "GIT-GITHUB/9. Branching in Git.md",
     "GIT-GITHUB/Raw Notes.md",
-    "Untitled Kanban.md",
-    "GIT-GITHUB/8. Push and Pull.md",
     "GIT-GITHUB/12. Squashing Commits.md",
     "GIT-GITHUB/1. Installation & Verification.md",
     "GIT-GITHUB/11. Pull Requests.md",
-    "GIT-GITHUB/10. Working with Forks and Upstream.md",
     "GIT-GITHUB/7. Connecting to Remote Repository.md",
     "GIT-GITHUB/6. Stashing Changes.md",
-    "GIT-GITHUB/5. Resetting Commits.md",
-    "GIT-GITHUB/3. Tracking Changes.md",
-    "GIT-GITHUB/4. Committing Changes.md",
     "GIT-GITHUB/2. Working with Repositories.md",
     "GIT-GITHUB/Installation and Verfication.md",
     "C/Code execution.md",
@@ -188,12 +189,8 @@
     "Python/JUPYTER NOTEBOOK.md",
     "Python/Python installations.md",
     "ROS 2/Opening the ros 2.md",
-    "VSC/Setting up VSC for code running.md",
-    "TERMINAL COMMANDS.md",
-    "MARKDOWN BASICS.md",
     "Untitled",
     "GIT-GITHUB",
-    "SIGN LANGUAGE",
     "ESP IDF",
     "VSC",
     "C++",
