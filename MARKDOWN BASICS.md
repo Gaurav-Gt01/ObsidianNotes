@@ -7,7 +7,7 @@
 
 ## TO INSERT A URL 
 
-    [ <tect that should be converted to link> ]( <link> )
+    [ <text that should be converted to link> ]( <link> )
 
 
 ## LINKING OTHER DOCUMENT 
