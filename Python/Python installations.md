@@ -26,4 +26,15 @@ quit
 
 # __# NOTE : run python file directly form vs code use base environment in global preference settings
 
+# To install libraries :
+``` 
+	pip install <nameOfLib>
+```
+
+# Verify the Installations :
+```
+	pip list 
+```
+
+
 

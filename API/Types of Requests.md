@@ -1,0 +1,2 @@
+- # Get : 
+	- To get some information from the server .
